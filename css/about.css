@@ -59,6 +59,19 @@
 	filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.3));
 }
 
+#about_section .photo_content
+{
+	display: flex;
+	flex-direction: column;
+}
+
+#about_section .button .button_left
+{
+	height: 12px;
+	margin-left: 12px;
+	transform: rotate(90deg);
+}
+
 #about_section .photo img
 {
 	width: clamp(250px, 35vw, 380px);
@@ -81,10 +94,10 @@
 
 #about_section .link
 {
-	color: var(--blue);
+	color: var(--light_blue);
 }
 
 #about_section .link::before
 {
-	background-color: var(--blue);
+	background-color: var(--light_blue);
 }

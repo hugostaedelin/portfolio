@@ -36,6 +36,13 @@
 	width: 100%;
 }
 
+#header .item 
+{
+	margin-bottom: auto !important;
+	margin-top: auto !important;
+	user-select: none;
+}
+
 #header .logo
 {
 	display: flex;

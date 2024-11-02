@@ -7,22 +7,16 @@
 
 <br/>
 
-A website presenting my projects.
-
-<br/>
-
-<p align="center">
-	<img src="./resources/misc/Thumbnail.png" width="700">
-</p>
+Un site web permettant de me présenter.
 
 <br/>
 
 # 📍 Access
 
-* The website is online at the address : **[angeluriot.com](https://www.angeluriot.com/)**.
+* Le site est accessible depuis l'adresse suivante : **[hstaedelin.fr](https://www.hstaedelin.fr/)**.
 
 <br/>
 
 # 🙏 Credits
 
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+* [**Angel Uriot**](https://github.com/angeluriot) : Créateur du projet.

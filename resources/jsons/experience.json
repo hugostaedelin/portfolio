@@ -3,93 +3,96 @@
 	[
 		{
 			"date": 2023,
-			"type": "Software Engineer",
-			"title": "BlaBlaCar",
-			"description": "Backend development for BlaBlaCar Daily, a dedicated app for short-distance carpooling within the BlaBlaCar ecosystem. My role involves resolving bugs and implementing new features to enhance user experience.",
-			"tags":
-			[
-				{ "name": "Python", "url": "https://www.python.org/" },
-				{ "name": "Flask", "url": "https://flask.palletsprojects.com/" },
-				{ "name": "Ruby", "url": "https://www.ruby-lang.org/" },
-				{ "name": "Rails", "url": "https://rubyonrails.org/" },
-				{ "name": "SQL", "url": "https://sql.sh" }
-			],
-			"link": "https://www.blablacar.co.uk/",
-			"video": "resources/videos/experience/BlaBlaCar.mp4",
-			"image": "resources/images/experience/BlaBlaCar.webp"
-		},
-		{
-			"date": 2023,
-			"type": "Software Engineer Intern",
-			"title": "Klaxit",
-			"description": "Backend development for the Klaxit application (new feature implementation and bug fixes). Additionally, I developed a machine learning model to detect fraudulent activity (data collection, training, automation, and deployment).",
-			"tags":
-			[
-				{ "name": "Ruby", "url": "https://www.ruby-lang.org/" },
-				{ "name": "Rails", "url": "https://rubyonrails.org/" },
-				{ "name": "SQL", "url": "https://sql.sh" },
-				{ "name": "Python", "url": "https://www.python.org/" },
-				{ "name": "TensorFlow", "url": "https://www.tensorflow.org/" }
-			],
-			"link": "https://www.klaxit.com/",
-			"video": "none",
-			"image": "resources/images/experience/Klaxit.webp"
-		},
-		{
-			"date": 2022,
-			"type": "Software Engineer Intern",
-			"title": "Fitthree Pte Ltd",
-			"description": "Design a system that establish optimized delivery routes for the company's drivers based on a list of orders and a set of constraints. The generated routes will be fed to the tracking management system.",
+			"type": "Développeur web fullstack",
+			"title": "Accès Culture",
+			"description": "Refonte totale du système d'information depuis une solution open-source d'ecommerce. Développement de modules externes de gestion de commandes, de salariés et de fournisseurs.",
 			"tags":
 			[
 				{ "name": "C#", "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" },
-				{ "name": "SQL", "url": "https://sql.sh" },
-				{ "name": "jQuery", "url": "https://jquery.com/" },
-				{ "name": "Bootstrap", "url": "https://getbootstrap.com/" }
+				{ "name": "GrandNode2", "url": "https://grandnode.com/" },
+				{ "name": "Docker", "url": "https://www.docker.com/" },
+				{ "name": "AzureDevops", "url": "https://azure.microsoft.com/fr-fr/products/devops/" },
+				{ "name": "MongoDB", "url": "https://www.mongodb.com/fr-fr" }
 			],
-			"link": "https://fitthree.com/",
+			"link": "https://www.acces-culture.fr/",
 			"video": "none",
-			"image": "resources/images/experience/Fitthree.webp"
+			"image": "resources/images/experience/accesculture.webp"
 		},
 		{
-			"date": 2019,
-			"type": "Developer Intern",
-			"title": "C.E.A. Paris-Saclay",
-			"description": "A two months internship at the C.E.A. Paris-Saclay, my assignment was to program a computer simulation predicting the behavior of neutrons in the core of a nuclear reactor.",
+			"date": 2023,
+			"type": "Développeur web frontend / Consultant",
+			"title": "Réalité Digitale",
+			"description": "Évolution d'une application web en PWA. Intégration de notifications push et de l'installation native pour un usage mobile. Création de composants web pour de l'intégration sur une refonte de site web.",
 			"tags":
 			[
-				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" }
+				{ "name": "ReactJS", "url": "https://react.dev/" },
+				{ "name": "PWA", "url": "https://web.dev/learn/pwa/" },
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
+				{ "name": "Bootstrap", "url": "https://getbootstrap.com/" }
 			],
-			"link": "https://www.cea.fr/english",
+			"link": "",
 			"video": "none",
-			"image": "resources/images/experience/Cea.webp"
+			"image": "resources/images/experience/rd.webp"
 		},
 		{
 			"date": 2021,
-			"type": "Research Intern",
-			"title": "C.E.E.S.A.R.",
-			"description": "A one month worker internship where I created a database of autopsy reports and modified high speed crash test footage.",
+			"type": "Développeur web stagiaire",
+			"title": "Université de Haute-Alsace",
+			"description": "Trois projets portés par l'UHA. Une preuve de concept d'un site de résultats d'algorithmes (IRIMAS), un site web de recensement de l'usage d'appareils multimédias (CRESAT) et un site web de gestion des inscriptions (UHA 4.0).",
 			"tags":
 			[
-				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" }
+				{ "name": "TypeScript", "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" },
+				{ "name": "PHP", "url": "https://en.wikipedia.org/wiki/PHP_(programming_language)" },
+				{ "name": "MySQL", "url": "https://en.wikipedia.org/wiki/MySQL" },
+				{ "name": "Python", "url": "https://en.wikipedia.org/wiki/Python_(langage)" },
+				{ "name": "Docker", "url": "https://www.docker.com/" }
 			],
-			"link": "https://www.ceesar.fr/en/",
+			"link": "https://www.uha.fr/",
 			"video": "none",
-			"image": "resources/images/experience/Ceesar.webp"
+			"image": "resources/images/experience/uha.webp"
+		},
+		{
+			"date": 2019,
+			"type": "Technicien informatique stagiaire",
+			"title": "Butachimie",
+			"description": "Stage de première année de BTS. Audit de logiciels utilisés dans différents services. Analyse, recensement des logiciels et documentation des procédures d'installation. Présentation des livrables avec les chefs de services.",
+			"tags":
+			[
+				{ "name": "Sharepoint", "url": "https://en.wikipedia.org/wiki/Microsoft_SharePoint" },
+				{ "name": "PowerShell", "url": "https://en.wikipedia.org/wiki/Windows_PowerShell" }
+			],
+			"link": "https://www.butachimie.eu/",
+			"video": "none",
+			"image": "resources/images/experience/butachimie.webp"
+		},
+		{
+			"date": 2017,
+			"type": "Technicien réseau stagiaire",
+			"title": "Orange",
+			"description": "3 stages réalisés dans le cadre du bac. Installation de fibres optiques chez des particuliers et maintenance des lignes existantes groupées ou dégroupées sur le réseau Orange. Intervention sur les lignes régionales et départementales sud Alsace.",
+			"tags":
+			[
+				{ "name": "Travail d'équipe", "url": "" },
+				{ "name": "Autonomie", "url": "" }
+			],
+			"link": "https://orange.fr/",
+			"video": "none",
+			"image": "resources/images/experience/orange.webp"
 		},
 		{
 			"date": 2015,
-			"type": "Video Producer",
-			"title": "DIMENSION",
-			"description": "I create videos for a popular science program on the Internet called DIMENSION. It's a 5 minutes animated video format where I talk about many topics such as astrophysics, mathematics or computer science.",
+			"type": "R&D & Sysadmin stagiaire",
+			"title": "Oracle",
+			"description": "Stage dans le cadre du bac. Découverte des langages de programmation C et C++ au sein de la division R&D. Maintenance technique des baies de serveurs.",
 			"tags":
 			[
-				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" },
-				{ "name": "Illustrator", "url": "https://www.adobe.com/products/illustrator.html" }
+				{ "name": "C", "url": "https://en.wikipedia.org/wiki/C_(programming_language)" },
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" },
+				{ "name": "Perl", "url": "https://en.wikipedia.org/wiki/Perl_(langage)" }
 			],
-			"link": "https://www.youtube.com/c/DIMENSI0N",
-			"video": "resources/videos/experience/Dimension.mp4",
-			"image": "resources/images/experience/Dimension.webp"
+			"link": "https://oracle.fr/",
+			"video": "none",
+			"image": "resources/images/experience/oracle.webp"
 		}
 	]
 }

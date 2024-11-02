@@ -2,14 +2,9 @@
 	"skills_categories":
 	[
 		{
-			"name" : "Software Development",
+			"name" : "Développement logiciel",
 			"skills" :
 			[
-				{
-					"name": "C",
-					"logo": "resources/svgs/skills/C.svg",
-					"link": "https://en.wikipedia.org/wiki/C_(programming_language)"
-				},
 				{
 					"name": "C++",
 					"logo": "resources/svgs/skills/Cpp.svg",
@@ -31,29 +26,9 @@
 					"link": "https://www.python.org/"
 				},
 				{
-					"name": "OCaml",
-					"logo": "resources/svgs/skills/OCaml.svg",
-					"link": "https://ocaml.org/index.html"
-				},
-				{
-					"name": "JavaFX",
-					"logo": "resources/svgs/skills/JavaFX.svg",
-					"link": "https://openjfx.io"
-				},
-				{
 					"name": "WinForms",
 					"logo": "resources/images/skills/WinForms.webp",
 					"link": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"
-				},
-				{
-					"name": "OpenCL",
-					"logo": "resources/svgs/skills/OpenCL.svg",
-					"link": "https://www.khronos.org/opencl/"
-				},
-				{
-					"name": "CMake",
-					"logo": "resources/svgs/skills/CMake.svg",
-					"link": "https://cmake.org/"
 				},
 				{
 					"name": "Git",
@@ -61,55 +36,9 @@
 					"link": "https://git-scm.com/"
 				},
 				{
-					"name": "Unix",
-					"logo": "resources/svgs/skills/Unix.svg",
-					"link": "https://en.wikipedia.org/wiki/Unix"
-				}
-			]
-		},
-		{
-			"name" : "Computer Graphics",
-			"skills" :
-			[
-				{
-					"name": "OpenGL",
-					"logo": "resources/svgs/skills/OpenGL.svg",
-					"link": "https://www.opengl.org//"
-				},
-				{
-					"name": "GLSL",
-					"logo": "resources/images/skills/Glsl.webp",
-					"link": "https://en.wikipedia.org/wiki/OpenGL_Shading_Language"
-				},
-				{
-					"name": "Unity",
-					"logo": "resources/svgs/skills/Unity.svg",
-					"link": "https://unity.com/"
-				},
-				{
-					"name": "JavaFX",
-					"logo": "resources/svgs/skills/JavaFX.svg",
-					"link": "https://openjfx.io"
-				},
-				{
-					"name": "WinForms",
-					"logo": "resources/images/skills/WinForms.webp",
-					"link": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"
-				},
-				{
-					"name": "SFML",
-					"logo": "resources/svgs/skills/Sfml.svg",
-					"link": "https://www.sfml-dev.org/index.php"
-				},
-				{
-					"name": "ImGui",
-					"logo": "resources/svgs/skills/ImGui.svg",
-					"link": "https://github.com/ocornut/imgui"
-				},
-				{
-					"name": "GLM",
-					"logo": "resources/svgs/skills/Glm.svg",
-					"link": "https://glm.g-truc.net/0.9.9/"
+					"name": "Git Extensions",
+					"logo": "resources/svgs/skills/GitExt.svg",
+					"link": "https://github.com/gitextensions"
 				}
 			]
 		},
@@ -118,24 +47,19 @@
 			"skills" :
 			[
 				{
+					"name": "Java",
+					"logo": "resources/svgs/skills/Java.svg",
+					"link": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+				},
+				{
+					"name": "C#",
+					"logo": "resources/svgs/skills/C_sharp.svg",
+					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+				},
+				{
 					"name": "Python",
 					"logo": "resources/svgs/skills/Python.svg",
 					"link": "https://www.python.org/"
-				},
-				{
-					"name": "Flask",
-					"logo": "resources/svgs/skills/Flask.svg",
-					"link": "https://flask.palletsprojects.com/"
-				},
-				{
-					"name": "Ruby",
-					"logo": "resources/svgs/skills/Ruby.svg",
-					"link": "https://www.ruby-lang.org/"
-				},
-				{
-					"name": "Rails",
-					"logo": "resources/svgs/skills/Rails.svg",
-					"link": "https://rubyonrails.org/"
 				},
 				{
 					"name": "JavaScript",
@@ -153,19 +77,9 @@
 					"link": "https://nodejs.org/en/"
 				},
 				{
-					"name": "ExpressJS",
-					"logo": "resources/images/skills/ExpressJS.webp",
-					"link": "http://expressjs.com"
-				},
-				{
-					"name": "C#",
-					"logo": "resources/svgs/skills/C_sharp.svg",
-					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
-				},
-				{
-					"name": "Socket.io",
-					"logo": "resources/svgs/skills/Socket_io.svg",
-					"link": "https://socket.io"
+					"name": "NestJS",
+					"logo": "resources/images/skills/Nestjs.webp",
+					"link": "http://nestjs.com"
 				},
 				{
 					"name": "SQL",
@@ -178,14 +92,14 @@
 					"link": "https://www.mongodb.com"
 				},
 				{
-					"name": "Stripe",
-					"logo": "resources/svgs/skills/Stripe.svg",
-					"link": "https://stripe.com/"
-				},
-				{
 					"name": "Git",
 					"logo": "resources/svgs/skills/Git.svg",
 					"link": "https://git-scm.com/"
+				},
+				{
+					"name": "Git Extensions",
+					"logo": "resources/svgs/skills/GitExt.svg",
+					"link": "https://github.com/gitextensions"
 				}
 			]
 		},
@@ -194,14 +108,14 @@
 			"skills" :
 			[
 				{
+					"name": "C# (Razor)",
+					"logo": "resources/svgs/skills/C_sharp.svg",
+					"link": "https://learn.microsoft.com/fr-fr/aspnet/core/mvc/views/razor?view=aspnetcore-8.0"
+				},
+				{
 					"name": "HTML",
 					"logo": "resources/svgs/skills/Html.svg",
 					"link": "https://en.wikipedia.org/wiki/HTML"
-				},
-				{
-					"name": "CSS",
-					"logo": "resources/svgs/skills/Css.svg",
-					"link": "https://en.wikipedia.org/wiki/CSS"
 				},
 				{
 					"name": "JavaScript",
@@ -214,16 +128,6 @@
 					"link": "https://www.typescriptlang.org"
 				},
 				{
-					"name": "Svelte",
-					"logo": "resources/svgs/skills/Svelte.svg",
-					"link": "https://svelte.dev/"
-				},
-				{
-					"name": "jQuery",
-					"logo": "resources/svgs/skills/JQuery.svg",
-					"link": "https://jquery.com/"
-				},
-				{
 					"name": "Bootstrap",
 					"logo": "resources/svgs/skills/Bootstrap.svg",
 					"link": "https://getbootstrap.com/"
@@ -234,107 +138,97 @@
 					"link": "https://tailwindcss.com/"
 				},
 				{
-					"name": "Vite",
-					"logo": "resources/svgs/skills/Vite.svg",
-					"link": "https://vitejs.dev/"
+					"name": "Git",
+					"logo": "resources/svgs/skills/Git.svg",
+					"link": "https://git-scm.com/"
 				},
 				{
-					"name": "ThreeJS",
-					"logo": "resources/svgs/skills/ThreeJS.svg",
-					"link": "https://threejs.org"
+					"name": "Git Extensions",
+					"logo": "resources/svgs/skills/GitExt.svg",
+					"link": "https://github.com/gitextensions"
+				}
+			]
+		},
+		{
+			"name" : "DevOps",
+			"skills" :
+			[
+				{
+					"name": "Docker",
+					"logo": "resources/svgs/skills/Docker.svg",
+					"link": "https://www.docker.com/"
 				},
 				{
-					"name": "AnimeJS",
-					"logo": "resources/images/skills/AnimeJS.webp",
-					"link": "https://animejs.com"
+					"name": "Azure Devops",
+					"logo": "resources/svgs/skills/MSAzureDev.svg",
+					"link": "https://azure.microsoft.com/fr-fr/products/devops/"
+				}
+			]
+		},
+		{
+			"name" : "Modding",
+			"skills" :
+			[
+				{
+					"name": "C#",
+					"logo": "resources/svgs/skills/C_sharp.svg",
+					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
 				},
 				{
-					"name": "GreenSock",
-					"logo": "resources/images/skills/GreenSock.webp",
-					"link": "https://greensock.com"
+					"name": "Java",
+					"logo": "resources/svgs/skills/Java.svg",
+					"link": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+				},
+				{
+					"name": "Lua",
+					"logo": "resources/svgs/skills/Lua.svg",
+					"link": "https://en.wikipedia.org/wiki/Lua_(programming_language)"
+				},
+				{
+					"name": "JavaScript",
+					"logo": "resources/svgs/skills/JavaScript.svg",
+					"link": "https://en.wikipedia.org/wiki/JavaScript"
 				},
 				{
 					"name": "Git",
 					"logo": "resources/svgs/skills/Git.svg",
 					"link": "https://git-scm.com/"
+				},
+				{
+					"name": "Git Extensions",
+					"logo": "resources/svgs/skills/GitExt.svg",
+					"link": "https://github.com/gitextensions"
 				}
 			]
 		},
 		{
-			"name" : "Machine Learning",
+			"name" : "Modélisation/Design",
 			"skills" :
 			[
 				{
-					"name": "Theory",
-					"logo": "resources/svgs/skills/Theory.svg",
-					"link": "https://github.com/angeluriot/Neural_network"
+					"name": "Blender",
+					"logo": "resources/svgs/skills/Blender.svg",
+					"link": "https://www.blender.org/"
 				},
 				{
-					"name": "Python",
-					"logo": "resources/svgs/skills/Python.svg",
-					"link": "https://www.python.org/"
+					"name": "WinForms",
+					"logo": "resources/images/skills/WinForms.webp",
+					"link": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"
 				},
 				{
-					"name": "PyTorch",
-					"logo": "resources/svgs/skills/PyTorch.svg",
-					"link": "https://pytorch.org/"
+					"name": "Unreal Engine",
+					"logo": "resources/svgs/skills/Unreal.svg",
+					"link": "https://www.unrealengine.com"
 				},
 				{
-					"name": "TensorFlow",
-					"logo": "resources/svgs/skills/TensorFlow.svg",
-					"link": "https://www.tensorflow.org/"
-				},
-				{
-					"name": "Keras",
-					"logo": "resources/svgs/skills/Keras.svg",
-					"link": "https://keras.io/"
-				}
-			]
-		},
-		{
-			"name" : "Design",
-			"skills" :
-			[
-				{
-					"name": "After Effects",
-					"logo": "resources/svgs/skills/After_effects.svg",
-					"link": "https://www.adobe.com/products/aftereffects.html"
-				},
-				{
-					"name": "Illustrator",
-					"logo": "resources/svgs/skills/Illustrator.svg",
-					"link": "https://www.adobe.com/products/illustrator.html"
-				},
-				{
-					"name": "Photoshop",
-					"logo": "resources/svgs/skills/Photoshop.svg",
-					"link": "https://www.adobe.com/products/photoshop.html"
+					"name": "Paint.NET",
+					"logo": "resources/images/skills/Pdn.webp",
+					"link": "https://www.getpaint.net/"
 				},
 				{
 					"name": "Figma",
 					"logo": "resources/svgs/skills/Figma.svg",
 					"link": "https://www.figma.com/"
-				},
-				{
-					"name": "SolidWorks",
-					"logo": "resources/images/skills/SolidWorks.webp",
-					"link": "https://www.solidworks.com/"
-				}
-			]
-		},
-		{
-			"name" : "Blockchain",
-			"skills" :
-			[
-				{
-					"name": "Solidity",
-					"logo": "resources/svgs/skills/Solidity.svg",
-					"link": "https://soliditylang.org/"
-				},
-				{
-					"name": "Web3.js",
-					"logo": "resources/images/skills/Web3JS.webp",
-					"link": "https://github.com/ChainSafe/web3.js"
 				}
 			]
 		}

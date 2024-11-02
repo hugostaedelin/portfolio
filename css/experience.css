@@ -1,11 +1,11 @@
 #experience_section
 {
-	background-color: var(--dark_purple);
+	background-color: var(--blue);
 }
 
 .experience_end
 {
-	background-color: var(--dark_purple);
+	background-color: var(--blue);
 }
 
 #experience_section .section_title
@@ -58,7 +58,7 @@
 
 #experience_section .sort_choices .choice.selected
 {
-	color: var(--dark_purple);
+	color: var(--blue);
 	background-color: var(--light_blue);
 	cursor: default;
 	pointer-events: none;
@@ -212,7 +212,7 @@
 
 #experience_section .job_text .text
 {
-	background-color: var(--purple);
+	background-color: var(--blue);
 	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
 	border-radius: 15px;
 	padding: 25px 25px 25px 25px;
@@ -230,7 +230,7 @@
 	font-family: calibre_regular;
 	font-size: 20px;
 	text-align: start;
-	color: var(--fade_white);
+	color: var(--white);
 }
 
 #experience_section .inverted .job_text .text p
